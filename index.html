@@ -1,1 +1,145 @@
-<html></html>
+<html><head><script>
+const tag = document.createElement('script')
+tag.src = "http://www.youtube.com/iframe_api"
+const firstScriptTag = document.getElementsByTagName('script')[0]
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
+
+const sources = [
+	{
+		"name": "Room 1",
+		"id": "JPGFk7CsNgM",
+		"offsetSeconds": 0
+	},
+	{
+		"name": "Room 2",
+		"id": "Qf_SUegPIOw",
+		"offsetSeconds": 48
+	},
+	{
+		"name": "Room 3",
+		"id": "2y5XZeTnA-k",
+		"offsetSeconds": 88
+	},
+	{
+		"name": "Room 4",
+		"id": "ieR55E5KVz4",
+		"offsetSeconds": 120
+	}/*,
+	{
+		"name": "Jury",
+		"id": "u7MVXEQqXvk",
+		"offsetSeconds": 5592
+	}*/
+]
+
+const embeds = new Map()
+let readyCount = 0
+
+function onYouTubeIframeAPIReady() {
+	let i = 0
+	sources.forEach((source) => {
+		embeds.set(source.name, new YTEmbed(source.name, source.id, source.offsetSeconds, i))
+		i ++
+	})
+}
+
+const YTEmbed = class {
+	player
+	div
+	constructor(name, id, offset, i) {
+		const divv = document.createElement('div')
+		divv.id = name
+		let left = 0
+		let top = 0
+		switch (i) {
+			case 0:
+				left = 0
+				top = 0
+				break
+			case 1:
+				left = 960
+				top = 0
+				break
+			case 2:
+				left = 0
+				top = 540
+				break
+			case 3:
+				left = 960
+				top = 540
+		}
+		divv.style.left = left
+		divv.style.top = top
+		divv.style.position = 'absolute'
+		divv.style.display = 'flex'
+		this.div = divv
+		document.body.appendChild(divv)
+		this.player = new YT.Player(name, {
+			width: '960',
+			height: '540',
+			videoId: id,
+			playerVars: {
+				'playsinline': 1,
+				'controls': 1,
+				'enablejsapi': 1,
+				'start': offset,
+				'autoplay': 1
+			},
+			events: {
+				'onStateChange': (event) => {
+					console.log(event.data)
+					switch (event.data) {
+						case YT.PlayerState.PLAYING:
+							break
+						case YT.PlayerState.PAUSED:
+							break
+						case YT.PlayerState.ENDED:
+							break
+						case YT.PlayerState.CUED:
+							break
+						case YT.PlayerState.BUFFERING:
+							break
+					}
+				},
+				'onReady': (event) => {
+					readyCount ++
+					//
+				}
+			}
+		})
+	}
+	play() {
+		console.log('hello')
+		this.player.playVideo()
+	}
+	pause() {
+		this.player.pauseVideo()
+	}
+	mute() {
+		this.player.mute()
+	}
+	unmute() {
+		this.player.unMute()
+	}
+	isMuted() {
+		return this.player.isMuted()
+	}
+	// Integer between 0 and 100
+	setVolume(number) {
+		this.player.setVolume(number)
+	}
+	getVolume() {
+		return this.player.getVolume()
+	}
+	getCurrentTime() {
+		return this.player.getCurrentTime()
+	}
+	getDuration() {
+		return this.player.getDuration()
+	}
+	seekTo(seconds) {
+		this.player.seekTo(seconds, true)
+	}
+}
+
+</script></head></html>
