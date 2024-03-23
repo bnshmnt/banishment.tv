@@ -63,8 +63,8 @@
 ## Simulations
 | #  | Name                                                                    | Date       |
 | --:|:----------------------------------------------------------------------- |:---------- |
-| 1  | [BrantSteele: All-Stars](https://www.youtube.com/watch?v=8rKurI40FSU)   | 2021-01-07 |
-| 2  | [BrantSteele: All-Stars 2](https://www.youtube.com/watch?v=V31GGxRSbFg) | 2021-01-17 |
+| 0  | [BrantSteele: All-Stars](https://www.youtube.com/watch?v=8rKurI40FSU)   | 2021-01-07 |
+| 1  | [BrantSteele: All-Stars 2](https://www.youtube.com/watch?v=V31GGxRSbFg) | 2021-01-17 |
 
 ## Podcasts
 | #  | Name                                                      | Date       |
