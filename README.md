@@ -39,7 +39,7 @@
 | 33 | Banishment VS 4: Heroes vs. Villains | 2021-02-28 |
 | 34 | Untitled 23                          | 2021-03-01 |
 | 35 | Untitled 24                          | 2021-03-02 |
-| 36 | Drag Banishment                      | 2021-03-06 |
+| 36 | Espé's Drag Banishment               | 2021-03-06 |
 | 37 | Big Banishment 3                     | 2021-03-07 |
 | 38 | Untitled 25                          | 2021-03-08 |
 | 39 | Untitled 26                          | 2021-03-09 |
@@ -56,7 +56,7 @@
 | 50 | Fifty                                | 2021-05-01 |
 | 51 | Delta                                | 2021-05-15 |
 | 52 | Exposed                              | 2021-05-25 |
-| 53 | Exposed 2                            | 2021-06-12 |
+| 53 | Exposed 2: Pride                     | 2021-06-12 |
 | 54 | Delta 2                              | 2021-07-28 |
 | 55 | Silent Mini                          | 2024-02-27 |
 
