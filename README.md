@@ -31,9 +31,9 @@
 | 26 | Banishment 19                        | 2021-02-15 |
 | 27 | Banishment 20                        | 2021-02-16 |
 | 28 | Banishment VS 3: Women at War        | 2021-02-20 |
-| 29 | Big Banishment 2                     | 2021-02-20 |
-| 30 | Banishment 21                        | 2021-02-21 |
-| 31 | Banishment 22                        | 2021-02-22 |
+| 29 | Big Banishment 2                     | 2021-02-21 |
+| 30 | Banishment 21                        | 2021-02-22 |
+| 31 | Banishment 22                        | 2021-02-23 |
 | 32 | Poké Banishment                      | 2021-02-27 |
 | 33 | Banishment VS 4: Heroes vs. Villains | 2021-02-28 |
 | 34 | Banishment 23                        | 2021-03-01 |
