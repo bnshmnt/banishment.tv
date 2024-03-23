@@ -1,6 +1,6 @@
 # Banishment
 
-## Seasons
+## Games
 | #  | Name                                 | Date       |
 | --:|:------------------------------------ |:---------- |
 | 0  | Pilot                                | 2020-11-01 |
@@ -45,26 +45,26 @@
 | 39 | Untitled 26                          | 2021-03-09 |
 | 40 | Trial of Champions                   | 2021-03-13 |
 | 41 | Shadows                              | 2021-03-21 |
-| 42 | Asian Celebration                    | 2021-04-03 |
-| 43 | Circle Banishment                    | 2021-04-13 |
-| 44 | Snipers                              | 2021-04-14 |
-| 45 | World War                            | 2021-04-17 |
-| 46 | Snipers 2                            | 2021-04-19 |
-| 47 | Big Banishment 420                   | 2021-04-20 |
-| 48 | All-Stars 3                          | 2021-04-27 |
-| 49 | All-Stars 4                          | 2021-04-27 |
+| 42 | Banishment Gaming: Poké Banishment 2 | 2021-04-01 |
+| 43 | Asian Celebration                    | 2021-04-03 |
+| 44 | Circle Banishment                    | 2021-04-13 |
+| 45 | Snipers                              | 2021-04-14 |
+| 46 | World War                            | 2021-04-17 |
+| 47 | Snipers 2                            | 2021-04-19 |
+| 48 | Big Banishment 420                   | 2021-04-20 |
+| 49 | All-Stars 3 & 4                      | 2021-04-27 |
 | 50 | Fifty                                | 2021-05-01 |
 | 51 | Delta                                | 2021-05-15 |
 | 52 | Exposed                              | 2021-05-25 |
 | 53 | Exposed 2: Pride                     | 2021-06-12 |
 | 54 | Delta 2                              | 2021-07-28 |
-| 55 | Silent Mini                          | 2024-02-27 |
+| 55 | Silent Podcasts                      | 2024-02-27 |
 
 ## Simulations
-| #  | Name                                                       | Date       |
-| --:|:---------------------------------------------------------- |:---------- |
-| 1  | [BrantSteele](https://www.youtube.com/watch?v=8rKurI40FSU) | 2021-01-07 |
-| 2  | [BrantSteele](https://www.youtube.com/watch?v=V31GGxRSbFg) | 2021-01-17 |
+| #  | Name                                                                    | Date       |
+| --:|:----------------------------------------------------------------------- |:---------- |
+| 1  | [BrantSteele: All-Stars](https://www.youtube.com/watch?v=8rKurI40FSU)   | 2021-01-07 |
+| 2  | [BrantSteele: All-Stars 2](https://www.youtube.com/watch?v=V31GGxRSbFg) | 2021-01-17 |
 
 ## Podcasts
 | #  | Name                                                      | Date       |
@@ -73,7 +73,11 @@
 | 1  | [Banishcast](https://www.youtube.com/watch?v=Q37zDVQsfIA) | 2021-02-11 |
 | 2  | [Banishcast](https://www.youtube.com/watch?v=mW51lo54oPE) | 2021-02-18 |
 
-## Gaming
-| #  | Name                                                            | Date       |
-| --:|:--------------------------------------------------------------- |:---------- |
-| 0  | [Pokémon Showdown](https://www.youtube.com/watch?v=Wz0_Nr4XxcY) | 2021-04-01 |
+# Equilibrium
+
+## Commentary
+| #  | Name                                                       | Date       |
+| --:|:---------------------------------------------------------- |:---------- |
+| 0  | [Equilibrium](https://www.youtube.com/watch?v=4nV86RmIu0E) | 2020-11-20 |
+| 1  | [Equilibrium](https://www.youtube.com/watch?v=ElkYtEmbu-k) | 2021-02-12 |
+| 2  | [Equilibrium](https://www.youtube.com/watch?v=HwE5ZtNzZaA) | 2021-02-19 |
