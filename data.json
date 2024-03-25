@@ -3,8 +3,7 @@
 		{
 			"metadata": {
 				"date": "2020-11-01",
-				"title": "Banishment 0",
-				"subtitle": "Pilot"
+				"title": "Pilot"
 			},
 			"data": {
 				"rooms": [
@@ -3985,8 +3984,7 @@
 		{
 			"metadata": {
 				"date": "2020-11-16",
-				"title": "Banishment 1",
-				"subtitle": "Untitled 1"
+				"title": "Untitled 1"
 			},
 			"data": {
 				"rooms": [
@@ -4984,8 +4982,7 @@
 		{
 			"metadata": {
 				"date": "2020-11-25",
-				"title": "Banishment 2",
-				"subtitle": "Untitled 2"
+				"title": "Untitled 2"
 			},
 			"data": {
 				"rooms": [
@@ -6193,8 +6190,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-02",
-				"title": "Banishment 3",
-				"subtitle": "Untitled 3"
+				"title": "Untitled 3"
 			},
 			"data": {
 				"rooms": [
@@ -7336,8 +7332,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-05",
-				"title": "Banishment 4",
-				"subtitle": "Untitled 4"
+				"title": "Untitled 4"
 			},
 			"data": {
 				"rooms": [
@@ -8527,8 +8522,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-07",
-				"title": "Banishment 5",
-				"subtitle": "Untitled 5"
+				"title": "Untitled 5"
 			},
 			"data": {
 				"rooms": [
@@ -10114,8 +10108,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-14",
-				"title": "Banishment 6",
-				"subtitle": "Untitled 6"
+				"title": "Untitled 6"
 			},
 			"data": {
 				"rooms": [
@@ -10975,8 +10968,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-15",
-				"title": "Banishment 7",
-				"subtitle": "Untitled 7"
+				"title": "Untitled 7"
 			},
 			"data": {
 				"rooms": [
@@ -11102,6 +11094,1542 @@
 					}
 				],
 				"votes": [
+					{
+						"round": 1,
+						"from": "Audience",
+						"to": ["Lewis"],
+						"kind": "safety"
+					},
+					{
+						"round": 2,
+						"from": "Audience",
+						"to": ["Turner"],
+						"kind": "safety"
+					},
+					{
+						"round": 3,
+						"from": "Audience",
+						"to": ["Dylan"],
+						"kind": "safety"
+					},
+					{
+						"round": 4,
+						"from": "Audience",
+						"to": ["Santi"],
+						"kind": "safety"
+					},
+					{
+						"round": 5,
+						"from": "Audience",
+						"to": ["Branson"],
+						"kind": "safety"
+					},
+					{
+						"round": 6,
+						"from": "Audience",
+						"to": ["Santi"],
+						"kind": "safety"
+					},
+					{
+						"round": 7,
+						"from": "Audience",
+						"to": ["Nolan"],
+						"kind": "safety"
+					},
+					{
+						"round": 8,
+						"from": "Audience",
+						"to": ["Ferry"],
+						"kind": "safety"
+					},
+					{
+						"round": 9,
+						"from": "Audience",
+						"to": ["Branson"],
+						"kind": "safety"
+					},
+					{
+						"round": 10,
+						"from": "Audience",
+						"to": ["Aidan"],
+						"kind": "safety"
+					},
+					{
+						"round": 11,
+						"from": "Audience",
+						"to": ["Nolan"],
+						"kind": "safety"
+					},
+					{
+						"round": 12,
+						"from": "Audience",
+						"to": ["Turner"],
+						"kind": "safety"
+					},
+					{
+						"round": 13,
+						"from": "Audience",
+						"to": ["Lucas"],
+						"kind": "safety"
+					},
+					{
+						"round": 14,
+						"from": "Audience",
+						"to": ["Ferry"],
+						"kind": "safety"
+					},
+					{
+						"round": 15,
+						"from": "Audience",
+						"to": ["Lucas"],
+						"kind": "safety"
+					},
+					{
+						"round": 16,
+						"from": "Audience",
+						"to": ["Ferry"],
+						"kind": "safety"
+					},
+					{
+						"round": 17,
+						"from": "Audience",
+						"to": ["Ferry"],
+						"kind": "safety"
+					},
+					{
+						"round": 1,
+						"from": "Lewis",
+						"to": ["Jordan"],
+						"kind": "banishment"
+					},
+					{
+						"round": 9,
+						"from": "Branson",
+						"to": ["Riley"],
+						"kind": "banishment"
+					},
+					{
+						"round": 10,
+						"from": "Aidan",
+						"to": ["Santi"],
+						"kind": "banishment"
+					},
+					{
+						"round": 12,
+						"from": "Turner",
+						"to": ["Branson"],
+						"kind": "banishment"
+					},
+					{
+						"round": 14,
+						"from": "Ferry",
+						"to": ["Lewis"],
+						"kind": "banishment"
+					},
+					{
+						"round": 16,
+						"from": "Ferry",
+						"to": ["Sharonica"],
+						"kind": "banishment"
+					},
+					{
+						"round": 18,
+						"from": "Ferry",
+						"to": ["Aidan"],
+						"kind": "banishment"
+					},
+					{
+						"round": 19,
+						"from": "Nolan",
+						"to": ["Lucas"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Lewis",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Miike",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Sharonica",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Ganjo",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Ferry",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 19,
+						"from": "Aidan",
+						"to": ["Turner"],
+						"kind": "jury"
+					},
+					{
+						"round": 1,
+						"from": "Turner",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Lucas",
+						"to": ["Lewis", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Aidan",
+						"to": ["Jordan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Ferry",
+						"to": ["Kevin", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Ganjo",
+						"to": ["Kevin", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sharonica",
+						"to": ["Jordan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Miike",
+						"to": ["Jordan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Lewis",
+						"to": ["Jordan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Nolan",
+						"to": ["Lewis", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Branson",
+						"to": ["Kevin", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Eric",
+						"to": ["Jordan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Santi",
+						"to": ["Jordan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Riley",
+						"to": ["Jordan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Bankind",
+						"to": ["Jordan", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Dylan",
+						"to": ["Jordan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sheryl",
+						"to": ["Lewis", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Ricky",
+						"to": ["Jordan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Kevin",
+						"to": ["Lewis", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "JD",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Nicholas",
+						"to": ["Jordan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Jordan",
+						"to": ["Kevin", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Turner",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Lucas",
+						"to": ["Bankind", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Aidan",
+						"to": ["Nicholas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Ferry",
+						"to": ["Ganjo", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Ganjo",
+						"to": ["Lewis", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sharonica",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Miike",
+						"to": ["Bankind", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Lewis",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Nolan",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Branson",
+						"to": ["Ganjo", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Eric",
+						"to": ["Nicholas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Santi",
+						"to": ["Ganjo", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Riley",
+						"to": ["Nicholas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Bankind",
+						"to": ["Lewis", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Dylan",
+						"to": ["Miike", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sheryl",
+						"to": ["Nicholas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Ricky",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Kevin",
+						"to": ["Nicholas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "JD",
+						"to": ["Ganjo", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Nicholas",
+						"to": ["Kevin", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Turner",
+						"to": ["Branson", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Lucas",
+						"to": ["Dylan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Aidan",
+						"to": ["Branson", "JD"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Ferry",
+						"to": ["Kevin", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Ganjo",
+						"to": ["Ferry", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sharonica",
+						"to": ["Ferry", "JD"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Miike",
+						"to": ["Dylan", "JD"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Lewis",
+						"to": ["Dylan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Nolan",
+						"to": ["JD", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Branson",
+						"to": ["JD", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Eric",
+						"to": ["Dylan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Santi",
+						"to": ["Dylan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Riley",
+						"to": ["Ferry", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Bankind",
+						"to": ["Dylan", "JD"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Dylan",
+						"to": ["JD", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sheryl",
+						"to": ["Nolan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Ricky",
+						"to": ["JD", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Kevin",
+						"to": ["JD", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "JD",
+						"to": ["Dylan", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Turner",
+						"to": ["Kevin", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Lucas",
+						"to": ["Nolan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Aidan",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Ferry",
+						"to": ["Ganjo", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Ganjo",
+						"to": ["Branson", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sharonica",
+						"to": ["Riley", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Miike",
+						"to": ["Ferry", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Lewis",
+						"to": ["Kevin", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Nolan",
+						"to": ["Kevin", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Branson",
+						"to": ["Dylan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Eric",
+						"to": ["Nolan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Santi",
+						"to": ["Branson", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Riley",
+						"to": ["Kevin", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Bankind",
+						"to": ["Branson", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Dylan",
+						"to": ["Kevin", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sheryl",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Ricky",
+						"to": ["Kevin", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Kevin",
+						"to": ["Nolan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Turner",
+						"to": ["Aidan", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Lucas",
+						"to": ["Dylan", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Aidan",
+						"to": ["Branson", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Ferry",
+						"to": ["Dylan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Ganjo",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sharonica",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Miike",
+						"to": ["Branson", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Lewis",
+						"to": ["Bankind", "Branson"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Nolan",
+						"to": ["Bankind", "Branson"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Branson",
+						"to": ["Riley", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Eric",
+						"to": ["Branson", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Santi",
+						"to": ["Aidan", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Riley",
+						"to": ["Branson", "Ricky"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Bankind",
+						"to": ["Ricky", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Dylan",
+						"to": ["Riley", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sheryl",
+						"to": ["Branson", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Ricky",
+						"to": ["Nolan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Turner",
+						"to": ["Lewis", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Lucas",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Aidan",
+						"to": ["Santi", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Ferry",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Ganjo",
+						"to": ["Lewis", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sharonica",
+						"to": ["Santi", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Miike",
+						"to": ["Ferry", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Lewis",
+						"to": ["Santi", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Nolan",
+						"to": ["Santi", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Branson",
+						"to": ["Aidan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Eric",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Santi",
+						"to": ["Lewis", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Riley",
+						"to": ["Aidan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Bankind",
+						"to": ["Lewis", "Sheryl"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Dylan",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sheryl",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Turner",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Lucas",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Aidan",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Ferry",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Ganjo",
+						"to": ["Bankind", "Branson"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Sharonica",
+						"to": ["Aidan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Miike",
+						"to": ["Aidan", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Lewis",
+						"to": ["Dylan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Nolan",
+						"to": ["Dylan", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Branson",
+						"to": ["Nolan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Eric",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Santi",
+						"to": ["Aidan", "Eric"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Riley",
+						"to": ["Dylan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Bankind",
+						"to": ["Dylan", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Dylan",
+						"to": ["Aidan", "Bankind"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Turner",
+						"to": ["Aidan", "Eric"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Lucas",
+						"to": ["Bankind", "Ganjo"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Aidan",
+						"to": ["Bankind", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Ferry",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Ganjo",
+						"to": ["Ferry", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Sharonica",
+						"to": ["Lucas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Miike",
+						"to": ["Eric", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Lewis",
+						"to": ["Aidan", "Bankind"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Nolan",
+						"to": ["Eric", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Branson",
+						"to": ["Aidan", "Bankind"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Eric",
+						"to": ["Bankind", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Santi",
+						"to": ["Bankind", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Riley",
+						"to": ["Aidan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Bankind",
+						"to": ["Eric", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Turner",
+						"to": ["Nolan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Lucas",
+						"to": ["Lewis", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Aidan",
+						"to": ["Branson", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Ferry",
+						"to": ["Lucas", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Ganjo",
+						"to": ["Eric", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Sharonica",
+						"to": ["Eric", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Miike",
+						"to": ["Branson", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Lewis",
+						"to": ["Branson", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Nolan",
+						"to": ["Riley", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Branson",
+						"to": ["Nolan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Eric",
+						"to": ["Nolan", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Santi",
+						"to": ["Eric", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Riley",
+						"to": ["Branson", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Turner",
+						"to": ["Ferry", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Lucas",
+						"to": ["Sharonica", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Aidan",
+						"to": ["Sharonica", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Ferry",
+						"to": ["Lewis", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Ganjo",
+						"to": ["Branson", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Sharonica",
+						"to": ["Aidan", "Ganjo"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Miike",
+						"to": ["Aidan", "Eric"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Lewis",
+						"to": ["Ferry", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Nolan",
+						"to": ["Eric", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Branson",
+						"to": ["Aidan", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Eric",
+						"to": ["Branson", "Santi"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Santi",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Turner",
+						"to": ["Eric", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Lucas",
+						"to": ["Eric", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Aidan",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Ferry",
+						"to": ["Ganjo", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Ganjo",
+						"to": ["Eric", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Sharonica",
+						"to": ["Eric", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Miike",
+						"to": ["Ferry", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Lewis",
+						"to": ["Eric", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Nolan",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Branson",
+						"to": ["Ganjo", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Eric",
+						"to": ["Ganjo", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Turner",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Lucas",
+						"to": ["Lewis", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Aidan",
+						"to": ["Branson", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Ferry",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Ganjo",
+						"to": ["Branson", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Sharonica",
+						"to": ["Branson", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Miike",
+						"to": ["Branson", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Lewis",
+						"to": ["Branson", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Nolan",
+						"to": ["Branson", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Branson",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Turner",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Lucas",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Aidan",
+						"to": ["Nolan", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Ferry",
+						"to": ["Miike", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Ganjo",
+						"to": ["Lucas", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Sharonica",
+						"to": ["Aidan", "Nolan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Miike",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Lewis",
+						"to": ["Aidan", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Nolan",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Turner",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Lucas",
+						"to": ["Lewis", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Aidan",
+						"to": ["Lewis", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Ferry",
+						"to": ["Aidan", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Ganjo",
+						"to": ["Ferry", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Sharonica",
+						"to": ["Ferry", "Lewis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Miike",
+						"to": ["Lewis", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Lewis",
+						"to": ["Ferry", "Ganjo"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Turner",
+						"to": ["Ganjo", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Lucas",
+						"to": ["Ganjo", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Aidan",
+						"to": ["Lucas", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Ferry",
+						"to": ["Ganjo", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Ganjo",
+						"to": ["Lucas", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Sharonica",
+						"to": ["Lucas", "Miike"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Miike",
+						"to": ["Lucas", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Turner",
+						"to": ["Ferry", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Lucas",
+						"to": ["Sharonica", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Aidan",
+						"to": ["Sharonica", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Ferry",
+						"to": ["Lucas", "Sharonica"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Ganjo",
+						"to": ["Aidan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Sharonica",
+						"to": ["Ferry", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 17,
+						"from": "Turner",
+						"to": ["Ferry", "Ganjo"],
+						"kind": "nomination"
+					},
+					{
+						"round": 17,
+						"from": "Lucas",
+						"to": ["Ganjo", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 17,
+						"from": "Aidan",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 17,
+						"from": "Ferry",
+						"to": ["Aidan", "Ganjo"],
+						"kind": "nomination"
+					},
+					{
+						"round": 17,
+						"from": "Ganjo",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 18,
+						"from": "Turner",
+						"to": ["Aidan", "Ferry"],
+						"kind": "nomination"
+					},
+					{
+						"round": 18,
+						"from": "Lucas",
+						"to": ["Ferry", "Turner"],
+						"kind": "nomination"
+					},
+					{
+						"round": 18,
+						"from": "Aidan",
+						"to": ["Ferry", "Lucas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 18,
+						"from": "Ferry",
+						"to": ["Aidan", "Lucas"],
+						"kind": "nomination"
+					}
 				],
 				"positions": [
 				],
@@ -11190,8 +12718,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-16",
-				"title": "Banishment 8",
-				"subtitle": "Untitled 8"
+				"title": "Untitled 8"
 			},
 			"data": {
 				"rooms": [
@@ -11297,6 +12824,924 @@
 					}
 				],
 				"votes": [
+					{
+						"round": 1,
+						"from": "Audience",
+						"to": ["Dennis"],
+						"kind": "safety"
+					},
+					{
+						"round": 2,
+						"from": "Audience",
+						"to": ["Sandwiches"],
+						"kind": "safety"
+					},
+					{
+						"round": 3,
+						"from": "Audience",
+						"to": ["Jack"],
+						"kind": "safety"
+					},
+					{
+						"round": 4,
+						"from": "Audience",
+						"to": ["Sandwiches"],
+						"kind": "safety"
+					},
+					{
+						"round": 5,
+						"from": "Audience",
+						"to": ["Jack"],
+						"kind": "safety"
+					},
+					{
+						"round": 6,
+						"from": "Audience",
+						"to": ["Sandwiches"],
+						"kind": "safety"
+					},
+					{
+						"round": 7,
+						"from": "Audience",
+						"to": ["Henry"],
+						"kind": "safety"
+					},
+					{
+						"round": 8,
+						"from": "Audience",
+						"to": ["Sandwiches"],
+						"kind": "safety"
+					},
+					{
+						"round": 9,
+						"from": "Audience",
+						"to": ["Migs"],
+						"kind": "safety"
+					},
+					{
+						"round": 10,
+						"from": "Audience",
+						"to": ["Migs"],
+						"kind": "safety"
+					},
+					{
+						"round": 11,
+						"from": "Audience",
+						"to": ["Lefebvre"],
+						"kind": "safety"
+					},
+					{
+						"round": 7,
+						"from": "Henry",
+						"to": ["Jack"],
+						"kind": "banishment"
+					},
+					{
+						"round": 8,
+						"from": "Sandwiches",
+						"to": ["Kevin"],
+						"kind": "banishment"
+					},
+					{
+						"round": 9,
+						"from": "Migs",
+						"to": ["Henry"],
+						"kind": "banishment"
+					},
+					{
+						"round": 10,
+						"from": "Migs",
+						"to": ["Mark"],
+						"kind": "banishment"
+					},
+					{
+						"round": 13,
+						"from": "Nicholas",
+						"to": ["Lefebvre"],
+						"kind": "banishment"
+					},
+					{
+						"round": 14,
+						"from": "Kevin",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Henry",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Mark",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Sandwiches",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Gill",
+						"to": ["Chris"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Nicholas",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 14,
+						"from": "Lefebvre",
+						"to": ["Migs"],
+						"kind": "jury"
+					},
+					{
+						"round": 1,
+						"from": "Migs",
+						"to": ["Brandon", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Chris",
+						"to": ["Brandon", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Lefebvre",
+						"to": ["Aly", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Nicholas",
+						"to": ["Brandon", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Gill",
+						"to": ["Brandon", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sandwiches",
+						"to": ["Brandon", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Mark",
+						"to": ["Dennis", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Henry",
+						"to": ["Brandon", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Kevin",
+						"to": ["Brandon", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Jack",
+						"to": ["Brandon", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Aly",
+						"to": ["Brandon", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Matthew",
+						"to": ["Brandon", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Hayden",
+						"to": ["Aly", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Dennis",
+						"to": ["Aly", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Dr. Pool",
+						"to": ["Lefebvre", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Brandon",
+						"to": ["Aly", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Migs",
+						"to": ["Kevin", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Chris",
+						"to": ["Kevin", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Lefebvre",
+						"to": ["Dr. Pool", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Nicholas",
+						"to": ["Gill", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Gill",
+						"to": ["Hayden", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sandwiches",
+						"to": ["Dr. Pool", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Mark",
+						"to": ["Hayden", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Henry",
+						"to": ["Dr. Pool", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Kevin",
+						"to": ["Dr. Pool", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Jack",
+						"to": ["Dr. Pool", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Aly",
+						"to": ["Dr. Pool", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Matthew",
+						"to": ["Dr. Pool", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Hayden",
+						"to": ["Dr. Pool", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Dennis",
+						"to": ["Dr. Pool", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Dr. Pool",
+						"to": ["Matthew", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Migs",
+						"to": ["Aly", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Chris",
+						"to": ["Jack", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Lefebvre",
+						"to": ["Kevin", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Nicholas",
+						"to": ["Dennis", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Gill",
+						"to": ["Matthew", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sandwiches",
+						"to": ["Dennis", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Mark",
+						"to": ["Chris", "Dennis"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Henry",
+						"to": ["Dennis", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Kevin",
+						"to": ["Dennis", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Jack",
+						"to": ["Dennis", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Aly",
+						"to": ["Dennis", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Matthew",
+						"to": ["Dennis", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Hayden",
+						"to": ["Chris", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Dennis",
+						"to": ["Henry", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Migs",
+						"to": ["Kevin", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Chris",
+						"to": ["Hayden", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Lefebvre",
+						"to": ["Hayden", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Nicholas",
+						"to": ["Gill", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Gill",
+						"to": ["Hayden", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sandwiches",
+						"to": ["Hayden", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Mark",
+						"to": ["Migs", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Henry",
+						"to": ["Hayden", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Kevin",
+						"to": ["Hayden", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Jack",
+						"to": ["Nicholas", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Aly",
+						"to": ["Hayden", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Matthew",
+						"to": ["Lefebvre", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Hayden",
+						"to": ["Lefebvre", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Migs",
+						"to": ["Aly", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Chris",
+						"to": ["Jack", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Lefebvre",
+						"to": ["Jack", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Nicholas",
+						"to": ["Kevin", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Gill",
+						"to": ["Jack", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sandwiches",
+						"to": ["Kevin", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Mark",
+						"to": ["Matthew", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Henry",
+						"to": ["Jack", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Kevin",
+						"to": ["Jack", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Jack",
+						"to": ["Lefebvre", "Matthew"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Aly",
+						"to": ["Matthew", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Matthew",
+						"to": ["Gill", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Migs",
+						"to": ["Kevin", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Chris",
+						"to": ["Aly", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Lefebvre",
+						"to": ["Nicholas", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Nicholas",
+						"to": ["Aly", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Gill",
+						"to": ["Kevin", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sandwiches",
+						"to": ["Aly", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Mark",
+						"to": ["Migs", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Henry",
+						"to": ["Nicholas", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Kevin",
+						"to": ["Nicholas", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Jack",
+						"to": ["Aly", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Aly",
+						"to": ["Jack", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Migs",
+						"to": ["Henry", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Chris",
+						"to": ["Gill", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Lefebvre",
+						"to": ["Jack", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Nicholas",
+						"to": ["Jack", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Gill",
+						"to": ["Henry", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Sandwiches",
+						"to": ["Henry", "Kevin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Mark",
+						"to": ["Jack", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Henry",
+						"to": ["Chris", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Kevin",
+						"to": ["Gill", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Jack",
+						"to": ["Mark", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Migs",
+						"to": ["Kevin", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Chris",
+						"to": ["Mark", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Lefebvre",
+						"to": ["Kevin", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Nicholas",
+						"to": ["Henry", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Gill",
+						"to": ["Kevin", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Sandwiches",
+						"to": ["Lefebvre", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Mark",
+						"to": ["Kevin", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Henry",
+						"to": ["Kevin", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Kevin",
+						"to": ["Chris", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Migs",
+						"to": ["Chris", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Chris",
+						"to": ["Gill", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Lefebvre",
+						"to": ["Henry", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Nicholas",
+						"to": ["Lefebvre", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Gill",
+						"to": ["Henry", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Sandwiches",
+						"to": ["Henry", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Mark",
+						"to": ["Henry", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Henry",
+						"to": ["Lefebvre", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Migs",
+						"to": ["Gill", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Chris",
+						"to": ["Mark", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Lefebvre",
+						"to": ["Mark", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Nicholas",
+						"to": ["Gill", "Mark"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Gill",
+						"to": ["Mark", "Migs"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Sandwiches",
+						"to": ["Lefebvre", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Mark",
+						"to": ["Migs", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Migs",
+						"to": ["Chris", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Chris",
+						"to": ["Lefebvre", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Lefebvre",
+						"to": ["Migs", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Nicholas",
+						"to": ["Lefebvre", "Sandwiches"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Gill",
+						"to": ["Lefebvre", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Sandwiches",
+						"to": ["Chris", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Migs",
+						"to": ["Chris", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Chris",
+						"to": ["Gill", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Lefebvre",
+						"to": ["Chris", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Nicholas",
+						"to": ["Gill", "Lefebvre"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Gill",
+						"to": ["Migs", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Migs",
+						"to": ["Chris", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Chris",
+						"to": ["Migs", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Lefebvre",
+						"to": ["Chris", "Nicholas"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Nicholas",
+						"to": ["Lefebvre", "Migs"],
+						"kind": "nomination"
+					}
 				],
 				"positions": [
 				],
@@ -11365,8 +13810,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-17",
-				"title": "Banishment 9",
-				"subtitle": "Untitled 9"
+				"title": "Untitled 9"
 			},
 			"data": {
 				"rooms": [
@@ -11484,6 +13928,1254 @@
 					}
 				],
 				"votes": [
+					{
+						"round": 1,
+						"from": "Audience",
+						"to": ["Austin"],
+						"kind": "safety"
+					},
+					{
+						"round": 2,
+						"from": "Audience",
+						"to": ["Matt"],
+						"kind": "safety"
+					},
+					{
+						"round": 3,
+						"from": "Audience",
+						"to": ["Tom"],
+						"kind": "safety"
+					},
+					{
+						"round": 4,
+						"from": "Audience",
+						"to": ["Billy"],
+						"kind": "safety"
+					},
+					{
+						"round": 5,
+						"from": "Audience",
+						"to": ["Carlos"],
+						"kind": "safety"
+					},
+					{
+						"round": 6,
+						"from": "Audience",
+						"to": ["Solana"],
+						"kind": "safety"
+					},
+					{
+						"round": 7,
+						"from": "Audience",
+						"to": ["Billy"],
+						"kind": "safety"
+					},
+					{
+						"round": 8,
+						"from": "Audience",
+						"to": ["André"],
+						"kind": "safety"
+					},
+					{
+						"round": 9,
+						"from": "Audience",
+						"to": ["Madison"],
+						"kind": "safety"
+					},
+					{
+						"round": 10,
+						"from": "Audience",
+						"to": ["Carlos"],
+						"kind": "safety"
+					},
+					{
+						"round": 11,
+						"from": "Audience",
+						"to": ["Billy"],
+						"kind": "safety"
+					},
+					{
+						"round": 12,
+						"from": "Audience",
+						"to": ["Verga"],
+						"kind": "safety"
+					},
+					{
+						"round": 13,
+						"from": "Audience",
+						"to": ["Billy"],
+						"kind": "safety"
+					},
+					{
+						"round": 14,
+						"from": "Audience",
+						"to": ["Tim"],
+						"kind": "safety"
+					},
+					{
+						"round": 8,
+						"from": "André",
+						"to": ["Tom"],
+						"kind": "banishment"
+					},
+					{
+						"round": 14,
+						"from": "Tim",
+						"to": ["Daveyy"],
+						"kind": "banishment"
+					},
+					{
+						"round": 16,
+						"from": "Verga",
+						"to": ["Billy"],
+						"kind": "banishment"
+					},
+					{
+						"round": 17,
+						"from": "Matt",
+						"to": ["Tim"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Carlos",
+						"to": ["Tim"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Sam",
+						"to": ["Solana"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Daveyy",
+						"to": ["Tim"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Madison",
+						"to": ["Tim"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Verga",
+						"to": ["Tim"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Billy",
+						"to": ["Solana"],
+						"kind": "jury"
+					},
+					{
+						"round": 1,
+						"from": "Tim",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Solana",
+						"to": ["John", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Billy",
+						"to": ["Austin", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Verga",
+						"to": ["André", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Madison",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Daveyy",
+						"to": ["Austin", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sam",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Carlos",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Matt",
+						"to": ["André", "Austin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "André",
+						"to": ["Jack", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Rino",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Tom",
+						"to": ["Austin", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Neb",
+						"to": ["Austin", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Hayden",
+						"to": ["Matt", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Andrew",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Jack",
+						"to": ["Tom", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Austin",
+						"to": ["Jack", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Riley",
+						"to": ["Austin", "John"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "John",
+						"to": ["Austin", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Tim",
+						"to": ["Matt", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Solana",
+						"to": ["Jack", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Billy",
+						"to": ["Jack", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Verga",
+						"to": ["Daveyy", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Madison",
+						"to": ["André", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Daveyy",
+						"to": ["André", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sam",
+						"to": ["Hayden", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Carlos",
+						"to": ["Matt", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Matt",
+						"to": ["Carlos", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "André",
+						"to": ["Neb", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Rino",
+						"to": ["Matt", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Tom",
+						"to": ["André", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Neb",
+						"to": ["André", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Hayden",
+						"to": ["Andrew", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Andrew",
+						"to": ["Matt", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Jack",
+						"to": ["Matt", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Austin",
+						"to": ["Madison", "Riley"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Riley",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Tim",
+						"to": ["Sam", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Solana",
+						"to": ["Neb", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Billy",
+						"to": ["Austin", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Verga",
+						"to": ["Madison", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Madison",
+						"to": ["Austin", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Daveyy",
+						"to": ["Austin", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sam",
+						"to": ["Austin", "Billy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Carlos",
+						"to": ["Austin", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Matt",
+						"to": ["Andrew", "Austin"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "André",
+						"to": ["Austin", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Rino",
+						"to": ["Austin", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Tom",
+						"to": ["Austin", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Neb",
+						"to": ["Austin", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Hayden",
+						"to": ["Austin", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Andrew",
+						"to": ["Austin", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Jack",
+						"to": ["Austin", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Austin",
+						"to": ["Neb", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Tim",
+						"to": ["Daveyy", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Solana",
+						"to": ["Billy", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Billy",
+						"to": ["Jack", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Verga",
+						"to": ["Hayden", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Madison",
+						"to": ["Billy", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Daveyy",
+						"to": ["Jack", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sam",
+						"to": ["André", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Carlos",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Matt",
+						"to": ["Jack", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "André",
+						"to": ["Madison", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Rino",
+						"to": ["Madison", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Tom",
+						"to": ["Billy", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Neb",
+						"to": ["Billy", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Hayden",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Andrew",
+						"to": ["Hayden", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Jack",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Tim",
+						"to": ["Andrew", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Solana",
+						"to": ["Andrew", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Billy",
+						"to": ["Carlos", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Verga",
+						"to": ["André", "Daveyy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Madison",
+						"to": ["Carlos", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Daveyy",
+						"to": ["Carlos", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sam",
+						"to": ["Andrew", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Carlos",
+						"to": ["Andrew", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Matt",
+						"to": ["Andrew", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "André",
+						"to": ["Andrew", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Rino",
+						"to": ["Billy", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Tom",
+						"to": ["Andrew", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Neb",
+						"to": ["Daveyy", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Hayden",
+						"to": ["Madison", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Andrew",
+						"to": ["Carlos", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Tim",
+						"to": ["Madison", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Solana",
+						"to": ["Hayden", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Billy",
+						"to": ["André", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Verga",
+						"to": ["Hayden", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Madison",
+						"to": ["Hayden", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Daveyy",
+						"to": ["André", "Billy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sam",
+						"to": ["André", "Hayden"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Carlos",
+						"to": ["Matt", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Matt",
+						"to": ["Hayden", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "André",
+						"to": ["Madison", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Rino",
+						"to": ["Hayden", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Tom",
+						"to": ["Matt", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Neb",
+						"to": ["Hayden", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Hayden",
+						"to": ["Matt", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Tim",
+						"to": ["André", "Billy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Solana",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Billy",
+						"to": ["Neb", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Verga",
+						"to": ["André", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Madison",
+						"to": ["Carlos", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Daveyy",
+						"to": ["Rino", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Sam",
+						"to": ["Billy", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Carlos",
+						"to": ["Billy", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Matt",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "André",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Rino",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Tom",
+						"to": ["Billy", "Neb"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Neb",
+						"to": ["Carlos", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Tim",
+						"to": ["Carlos", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Solana",
+						"to": ["André", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Billy",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Verga",
+						"to": ["Carlos", "Daveyy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Madison",
+						"to": ["André", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Daveyy",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Sam",
+						"to": ["André", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Carlos",
+						"to": ["André", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Matt",
+						"to": ["André", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "André",
+						"to": ["Carlos", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Rino",
+						"to": ["Carlos", "Tom"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Tom",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Tim",
+						"to": ["Sam", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Solana",
+						"to": ["Billy", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Billy",
+						"to": ["Madison", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Verga",
+						"to": ["Billy", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Madison",
+						"to": ["Rino", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Daveyy",
+						"to": ["Solana", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Sam",
+						"to": ["Matt", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Carlos",
+						"to": ["Madison", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Matt",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "André",
+						"to": ["Madison", "Rino"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Rino",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Tim",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Solana",
+						"to": ["André", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Billy",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Verga",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Madison",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Daveyy",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Sam",
+						"to": ["André", "Carlos"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Carlos",
+						"to": ["Billy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Matt",
+						"to": ["André", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "André",
+						"to": ["Matt", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Tim",
+						"to": ["Billy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Solana",
+						"to": ["Billy", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Billy",
+						"to": ["Matt", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Verga",
+						"to": ["Daveyy", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Madison",
+						"to": ["Billy", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Daveyy",
+						"to": ["Billy", "Matt"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Sam",
+						"to": ["Billy", "Daveyy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Carlos",
+						"to": ["Matt", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Matt",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Tim",
+						"to": ["Carlos", "Daveyy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Solana",
+						"to": ["Carlos", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Billy",
+						"to": ["Daveyy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Verga",
+						"to": ["Carlos", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Madison",
+						"to": ["Sam", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Daveyy",
+						"to": ["Sam", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Sam",
+						"to": ["Carlos", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Carlos",
+						"to": ["Tim", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Tim",
+						"to": ["Madison", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Solana",
+						"to": ["Daveyy", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Billy",
+						"to": ["Madison", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Verga",
+						"to": ["Billy", "Daveyy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Madison",
+						"to": ["Billy", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Daveyy",
+						"to": ["Billy", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Sam",
+						"to": ["Billy", "Tim"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Tim",
+						"to": ["Daveyy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Solana",
+						"to": ["Billy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Billy",
+						"to": ["Daveyy", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Verga",
+						"to": ["Madison", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Madison",
+						"to": ["Tim", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Daveyy",
+						"to": ["Tim", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Tim",
+						"to": ["Madison", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Solana",
+						"to": ["Billy", "Madison"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Billy",
+						"to": ["Madison", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Verga",
+						"to": ["Madison", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Madison",
+						"to": ["Billy", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Tim",
+						"to": ["Billy", "Solana"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Solana",
+						"to": ["Billy", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Billy",
+						"to": ["Tim", "Verga"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Verga",
+						"to": ["Solana", "Verga"],
+						"kind": "nomination"
+					}
 				],
 				"positions": [
 				],
@@ -11564,8 +15256,7 @@
 		{
 			"metadata": {
 				"date": "2020-12-30",
-				"title": "Banishment 10",
-				"subtitle": "Untitled 10"
+				"title": "Untitled 10"
 			},
 			"data": {
 				"rooms": [
@@ -11683,6 +15374,1260 @@
 					}
 				],
 				"votes": [
+					{
+						"round": 1,
+						"from": "Audience",
+						"to": ["Sean"],
+						"kind": "safety"
+					},
+					{
+						"round": 2,
+						"from": "Audience",
+						"to": ["Jonathan"],
+						"kind": "safety"
+					},
+					{
+						"round": 3,
+						"from": "Audience",
+						"to": ["Sean"],
+						"kind": "safety"
+					},
+					{
+						"round": 4,
+						"from": "Audience",
+						"to": ["Cole"],
+						"kind": "safety"
+					},
+					{
+						"round": 5,
+						"from": "Audience",
+						"to": ["KP"],
+						"kind": "safety"
+					},
+					{
+						"round": 6,
+						"from": "Audience",
+						"to": ["Javier"],
+						"kind": "safety"
+					},
+					{
+						"round": 7,
+						"from": "Audience",
+						"to": ["KP"],
+						"kind": "safety"
+					},
+					{
+						"round": 8,
+						"from": "Audience",
+						"to": ["Leandro"],
+						"kind": "safety"
+					},
+					{
+						"round": 9,
+						"from": "Audience",
+						"to": ["KP"],
+						"kind": "safety"
+					},
+					{
+						"round": 10,
+						"from": "Audience",
+						"to": ["Rob"],
+						"kind": "safety"
+					},
+					{
+						"round": 11,
+						"from": "Audience",
+						"to": ["KP"],
+						"kind": "safety"
+					},
+					{
+						"round": 12,
+						"from": "Audience",
+						"to": ["Bethaney"],
+						"kind": "safety"
+					},
+					{
+						"round": 13,
+						"from": "Audience",
+						"to": ["KP"],
+						"kind": "safety"
+					},
+					{
+						"round": 14,
+						"from": "Audience",
+						"to": ["Bethaney"],
+						"kind": "safety"
+					},
+					{
+						"round": 12,
+						"from": "Bethaney",
+						"to": ["Rob"],
+						"kind": "banishment"
+					},
+					{
+						"round": 16,
+						"from": "Sam",
+						"to": ["Aly"],
+						"kind": "banishment"
+					},
+					{
+						"round": 17,
+						"from": "Javier",
+						"to": ["KP"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Leandro",
+						"to": ["KP"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Tracy",
+						"to": ["Dylan"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Rob",
+						"to": ["Dylan"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Joshua",
+						"to": ["KP"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Gill",
+						"to": ["KP"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Bethaney",
+						"to": ["Dylan"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Sam",
+						"to": ["KP"],
+						"kind": "jury"
+					},
+					{
+						"round": 17,
+						"from": "Aly",
+						"to": ["Dylan"],
+						"kind": "jury"
+					},
+					{
+						"round": 1,
+						"from": "KP",
+						"to": ["AJ", "Noah"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Dylan",
+						"to": ["Rob", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Aly",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sam",
+						"to": ["AJ", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Bethaney",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Gill",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Joshua",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Rob",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Tracy",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Leandro",
+						"to": ["AJ", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Javier",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Sean",
+						"to": ["AJ", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Cole",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Greg",
+						"to": ["AJ", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Raffy",
+						"to": ["Rob", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Jonathan",
+						"to": ["AJ", "Bethaney"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "AJ",
+						"to": ["Noah", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Jack",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 1,
+						"from": "Noah",
+						"to": ["Rob", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "KP",
+						"to": ["Jonathan", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Dylan",
+						"to": ["Jack", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Aly",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sam",
+						"to": ["Cole", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Bethaney",
+						"to": ["Cole", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Gill",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Joshua",
+						"to": ["Jack", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Rob",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Tracy",
+						"to": ["Jack", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Leandro",
+						"to": ["Jack", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Javier",
+						"to": ["Cole", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Sean",
+						"to": ["Cole", "Jack"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Cole",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Greg",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Raffy",
+						"to": ["Jack", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Jonathan",
+						"to": ["Aly", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "AJ",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 2,
+						"from": "Jack",
+						"to": ["Jonathan", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "KP",
+						"to": ["Rob", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Dylan",
+						"to": ["AJ", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Aly",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sam",
+						"to": ["Bethaney", "Joshua"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Bethaney",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Gill",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Joshua",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Rob",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Tracy",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Leandro",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Javier",
+						"to": ["Rob", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Sean",
+						"to": ["AJ", "Javier"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Cole",
+						"to": ["Javier", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Greg",
+						"to": ["Sam", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Raffy",
+						"to": ["AJ", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "Jonathan",
+						"to": ["AJ", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 3,
+						"from": "AJ",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "KP",
+						"to": ["Gill", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Dylan",
+						"to": ["Gill", "Greg"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Aly",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sam",
+						"to": ["Dylan", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Bethaney",
+						"to": ["Cole", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Gill",
+						"to": ["Jonathan", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Joshua",
+						"to": ["Cole", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Rob",
+						"to": ["Cole", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Tracy",
+						"to": ["Cole", "Jonathan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Leandro",
+						"to": ["Jonathan", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Javier",
+						"to": ["Cole", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Sean",
+						"to": ["Cole", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Cole",
+						"to": ["KP", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Greg",
+						"to": ["Cole", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Raffy",
+						"to": ["Cole", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 4,
+						"from": "Jonathan",
+						"to": ["Cole", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "KP",
+						"to": ["Raffy", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Dylan",
+						"to": ["Bethaney", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Aly",
+						"to": ["Raffy", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sam",
+						"to": ["Gill", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Bethaney",
+						"to": ["KP", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Gill",
+						"to": ["Cole", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Joshua",
+						"to": ["KP", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Rob",
+						"to": ["Gill", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Tracy",
+						"to": ["Raffy", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Leandro",
+						"to": ["Dylan", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Javier",
+						"to": ["Aly", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Sean",
+						"to": ["Aly", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Cole",
+						"to": ["Aly", "Raffy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Greg",
+						"to": ["KP", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 5,
+						"from": "Raffy",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "KP",
+						"to": ["Cole", "Greg"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Dylan",
+						"to": ["Greg", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Aly",
+						"to": ["Greg", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sam",
+						"to": ["Aly", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Bethaney",
+						"to": ["Javier", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Gill",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Joshua",
+						"to": ["Javier", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Rob",
+						"to": ["Javier", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Tracy",
+						"to": ["Javier", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Leandro",
+						"to": ["Greg", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Javier",
+						"to": ["Greg", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Sean",
+						"to": ["Greg", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Cole",
+						"to": ["Javier", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 6,
+						"from": "Greg",
+						"to": ["Javier", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "KP",
+						"to": ["Joshua", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Dylan",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Aly",
+						"to": ["KP", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Sam",
+						"to": ["KP", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Bethaney",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Gill",
+						"to": ["Cole", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Joshua",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Rob",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Tracy",
+						"to": ["Cole", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Leandro",
+						"to": ["Bethaney", "Cole"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Javier",
+						"to": ["Cole", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Sean",
+						"to": ["Cole", "Javier"],
+						"kind": "nomination"
+					},
+					{
+						"round": 7,
+						"from": "Cole",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "KP",
+						"to": ["Aly", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Dylan",
+						"to": ["Leandro", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Aly",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Sam",
+						"to": ["Leandro", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Bethaney",
+						"to": ["Leandro", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Gill",
+						"to": ["Sam", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Joshua",
+						"to": ["Leandro", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Rob",
+						"to": ["Leandro", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Tracy",
+						"to": ["Leandro", "Sean"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Leandro",
+						"to": ["Rob", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Javier",
+						"to": ["Aly", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 8,
+						"from": "Sean",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "KP",
+						"to": ["Rob", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Dylan",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Aly",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Sam",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Bethaney",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Gill",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Joshua",
+						"to": ["Dylan", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Rob",
+						"to": ["Javier", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Tracy",
+						"to": ["Aly", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Leandro",
+						"to": ["Aly", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 9,
+						"from": "Javier",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "KP",
+						"to": ["Bethaney", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Dylan",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Aly",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Sam",
+						"to": ["Aly", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Bethaney",
+						"to": ["Aly", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Gill",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Joshua",
+						"to": ["Bethaney", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Rob",
+						"to": ["Aly", "Leandro"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Tracy",
+						"to": ["Leandro", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 10,
+						"from": "Leandro",
+						"to": ["Dylan", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "KP",
+						"to": ["Aly", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Dylan",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Aly",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Sam",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Bethaney",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Gill",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Joshua",
+						"to": ["KP", "Tracy"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Rob",
+						"to": ["Bethaney", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 11,
+						"from": "Tracy",
+						"to": ["Gill", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "KP",
+						"to": ["Bethaney", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Dylan",
+						"to": ["Bethaney", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Aly",
+						"to": ["Rob", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Sam",
+						"to": ["Bethaney", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Bethaney",
+						"to": ["Gill", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Gill",
+						"to": ["Dylan", "Rob"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Joshua",
+						"to": ["Aly", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 12,
+						"from": "Rob",
+						"to": ["Dylan", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "KP",
+						"to": ["Joshua", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Dylan",
+						"to": ["Joshua", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Aly",
+						"to": ["Joshua", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Sam",
+						"to": ["Joshua", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Bethaney",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Gill",
+						"to": ["Joshua", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 13,
+						"from": "Joshua",
+						"to": ["Gill", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "KP",
+						"to": ["Bethaney", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Dylan",
+						"to": ["Bethaney", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Aly",
+						"to": ["Bethaney", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Sam",
+						"to": ["Bethaney", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Bethaney",
+						"to": ["Aly", "Gill"],
+						"kind": "nomination"
+					},
+					{
+						"round": 14,
+						"from": "Gill",
+						"to": ["Aly", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "KP",
+						"to": ["Bethaney", "Dylan"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Dylan",
+						"to": ["Bethaney", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Aly",
+						"to": ["Bethaney", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Sam",
+						"to": ["Aly", "Bethaney"],
+						"kind": "nomination"
+					},
+					{
+						"round": 15,
+						"from": "Bethaney",
+						"to": ["Dylan", "KP"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "KP",
+						"to": ["Dylan", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Dylan",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Aly",
+						"to": ["KP", "Sam"],
+						"kind": "nomination"
+					},
+					{
+						"round": 16,
+						"from": "Sam",
+						"to": ["Aly", "Dylan"],
+						"kind": "nomination"
+					}
 				],
 				"positions": [
 				],
@@ -11763,8 +16708,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-08",
-				"title": "Banishment 11",
-				"subtitle": "All-Stars"
+				"title": "All-Stars"
 			},
 			"data": {
 				"rooms": [
@@ -11983,8 +16927,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-10",
-				"title": "Banishment 12",
-				"subtitle": "All-Stars 2"
+				"title": "All-Stars 2"
 			},
 			"data": {
 				"rooms": [
@@ -12194,8 +17137,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-12",
-				"title": "Banishment 13",
-				"subtitle": "Untitled 11"
+				"title": "Untitled 11"
 			},
 			"data": {
 				"rooms": [
@@ -12397,8 +17339,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-15",
-				"title": "Banishment 14",
-				"subtitle": "Untitled 12"
+				"title": "Untitled 12"
 			},
 			"data": {
 				"rooms": [
@@ -12604,8 +17545,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-17",
-				"title": "Banishment 15",
-				"subtitle": "Untitled 13"
+				"title": "Untitled 13"
 			},
 			"data": {
 				"rooms": [
@@ -12787,8 +17727,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-19",
-				"title": "Banishment 16",
-				"subtitle": "Untitled 14"
+				"title": "Untitled 14"
 			},
 			"data": {
 				"rooms": [
@@ -12994,8 +17933,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-22",
-				"title": "Banishment 17",
-				"subtitle": "Big Banishment"
+				"title": "Big Banishment"
 			},
 			"data": {
 				"rooms": [
@@ -13161,8 +18099,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-24",
-				"title": "Banishment 18",
-				"subtitle": "Versus"
+				"title": "Versus"
 			},
 			"data": {
 				"rooms": [
@@ -13352,8 +18289,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-26",
-				"title": "Banishment 19",
-				"subtitle": "Untitled 15"
+				"title": "Untitled 15"
 			},
 			"data": {
 				"rooms": [
@@ -13527,8 +18463,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-31",
-				"title": "Banishment 20",
-				"subtitle": "Untitled 16"
+				"title": "Untitled 16"
 			},
 			"data": {
 				"rooms": [
@@ -13702,8 +18637,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-06",
-				"title": "Banishment 21",
-				"subtitle": "Highly Melanated"
+				"title": "Highly Melanated"
 			},
 			"data": {
 				"rooms": [
@@ -13889,8 +18823,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-08",
-				"title": "Banishment 22",
-				"subtitle": "Untitled 17"
+				"title": "Untitled 17"
 			},
 			"data": {
 				"rooms": [
@@ -14056,8 +18989,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-09",
-				"title": "Banishment 23",
-				"subtitle": "Untitled 18"
+				"title": "Untitled 18"
 			},
 			"data": {
 				"rooms": [
@@ -14231,8 +19163,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-13",
-				"title": "Banishment 24",
-				"subtitle": "Rivals"
+				"title": "Rivals"
 			},
 			"data": {
 				"rooms": [
@@ -14422,8 +19353,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-14",
-				"title": "Banishment 25",
-				"subtitle": "Banishment Love"
+				"title": "Banishment Love"
 			},
 			"data": {
 				"rooms": [
@@ -14629,8 +19559,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-15",
-				"title": "Banishment 26",
-				"subtitle": "Untitled 19"
+				"title": "Untitled 19"
 			},
 			"data": {
 				"rooms": [
@@ -14824,8 +19753,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-16",
-				"title": "Banishment 27",
-				"subtitle": "Untitled 20"
+				"title": "Untitled 20"
 			},
 			"data": {
 				"rooms": [
@@ -14991,8 +19919,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-20",
-				"title": "Banishment 28",
-				"subtitle": "Women at War"
+				"title": "Women at War"
 			},
 			"data": {
 				"rooms": [
@@ -15158,8 +20085,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-21",
-				"title": "Banishment 29",
-				"subtitle": "Big Banishment 2 "
+				"title": "Big Banishment 2 "
 			},
 			"data": {
 				"rooms": [
@@ -15333,8 +20259,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-22",
-				"title": "Banishment 30",
-				"subtitle": "Untitled 21"
+				"title": "Untitled 21"
 			},
 			"data": {
 				"rooms": [
@@ -15480,8 +20405,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-23",
-				"title": "Banishment 31",
-				"subtitle": "Untitled 22"
+				"title": "Untitled 22"
 			},
 			"data": {
 				"rooms": [
@@ -15635,8 +20559,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-27",
-				"title": "Banishment 32",
-				"subtitle": "Poké Banishment"
+				"title": "Poké Banishment"
 			},
 			"data": {
 				"rooms": [
@@ -15802,8 +20725,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-28",
-				"title": "Banishment 33",
-				"subtitle": "Heroes vs. Villains"
+				"title": "Heroes vs. Villains"
 			},
 			"data": {
 				"rooms": [
@@ -15977,8 +20899,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-01",
-				"title": "Banishment 34",
-				"subtitle": "Untitled 23"
+				"title": "Untitled 23"
 			},
 			"data": {
 				"rooms": [
@@ -16128,8 +21049,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-02",
-				"title": "Banishment 35",
-				"subtitle": "Untitled 24"
+				"title": "Untitled 24"
 			},
 			"data": {
 				"rooms": [
@@ -16287,8 +21207,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-06",
-				"title": "Banishment 36",
-				"subtitle": "Espé's Drag Banishment"
+				"title": "Espé's Drag Banishment"
 			},
 			"data": {
 				"rooms": [
@@ -16462,8 +21381,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-07",
-				"title": "Banishment 37",
-				"subtitle": "Big Banishment 3"
+				"title": "Big Banishment 3"
 			},
 			"data": {
 				"rooms": [
@@ -16669,8 +21587,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-08",
-				"title": "Banishment 38",
-				"subtitle": "Untitled 25"
+				"title": "Untitled 25"
 			},
 			"data": {
 				"rooms": [
@@ -16848,8 +21765,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-09",
-				"title": "Banishment 39",
-				"subtitle": "Untitled 26"
+				"title": "Untitled 26"
 			},
 			"data": {
 				"rooms": [
@@ -17011,8 +21927,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-13",
-				"title": "Banishment 40",
-				"subtitle": "Trial of Champions"
+				"title": "Trial of Champions"
 			},
 			"data": {
 				"rooms": [
@@ -17178,8 +22093,7 @@
 		{
 			"metadata": {
 				"date": "2021-03-21",
-				"title": "Banishment 41",
-				"subtitle": "Shadows"
+				"title": "Shadows"
 			},
 			"data": {
 				"rooms": [
@@ -17364,9 +22278,8 @@
 		},
 		{
 			"metadata": {
-				"date": "2021-02-27",
-				"title": "Banishment 42",
-				"subtitle": "Banishment Gaming: Poké Banishment 2"
+				"date": "2021-04-01",
+				"title": "Banishment Gaming: Poké Banishment 2"
 			},
 			"data": {
 				"rooms": [
@@ -17411,8 +22324,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-03",
-				"title": "Banishment 43",
-				"subtitle": "Asian Celebration"
+				"title": "Asian Celebration"
 			},
 			"data": {
 				"rooms": [
@@ -17570,8 +22482,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-13",
-				"title": "Banishment 44",
-				"subtitle": "Circle Banishment"
+				"title": "Circle Banishment"
 			},
 			"data": {
 				"rooms": [
@@ -17708,8 +22619,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-14",
-				"title": "Banishment 45",
-				"subtitle": "Snipers"
+				"title": "Snipers"
 			},
 			"data": {
 				"rooms": [
@@ -17859,8 +22769,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-17",
-				"title": "Banishment 46",
-				"subtitle": "World War"
+				"title": "World War"
 			},
 			"data": {
 				"rooms": [
@@ -18055,8 +22964,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-19",
-				"title": "Banishment 47",
-				"subtitle": "Snipers 2"
+				"title": "Snipers 2"
 			},
 			"data": {
 				"rooms": [
@@ -18214,8 +23122,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-20",
-				"title": "Banishment 48",
-				"subtitle": "Big Brother 420"
+				"title": "Big Brother 420"
 			},
 			"data": {
 				"rooms": [
@@ -18349,8 +23256,7 @@
 		{
 			"metadata": {
 				"date": "2021-04-27",
-				"title": "Banishment 49",
-				"subtitle": "All-Stars 3 & 4"
+				"title": "All-Stars 3 & 4"
 			},
 			"data": {
 				"rooms": [
@@ -18579,8 +23485,7 @@
 		{
 			"metadata": {
 				"date": "2021-05-01",
-				"title": "Banishment 50",
-				"subtitle": "Fifty"
+				"title": "Fifty"
 			},
 			"data": {
 				"rooms": [
@@ -18734,8 +23639,7 @@
 		{
 			"metadata": {
 				"date": "2021-05-15",
-				"title": "Banishment 51",
-				"subtitle": "Delta"
+				"title": "Delta"
 			},
 			"data": {
 				"rooms": [
@@ -18889,8 +23793,7 @@
 		{
 			"metadata": {
 				"date": "2021-05-25",
-				"title": "Banishment 52",
-				"subtitle": "Exposed"
+				"title": "Exposed"
 			},
 			"data": {
 				"rooms": [
@@ -19079,8 +23982,7 @@
 		{
 			"metadata": {
 				"date": "2021-06-12",
-				"title": "Banishment 53",
-				"subtitle": "Exposed 2: Pride"
+				"title": "Exposed 2: Pride"
 			},
 			"data": {
 				"rooms": [
@@ -19209,8 +24111,7 @@
 		{
 			"metadata": {
 				"date": "2021-07-28",
-				"title": "Banishment 54",
-				"subtitle": "Delta 2"
+				"title": "Delta 2"
 			},
 			"data": {
 				"rooms": [
@@ -19330,8 +24231,7 @@
 		{
 			"metadata": {
 				"date": "2024-02-27",
-				"title": "Banishment 55",
-				"subtitle": "Silent Podcasts"
+				"title": "Silent Podcasts"
 			},
 			"data": {
 				"rooms": [
@@ -20099,8 +24999,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-07",
-				"title": "BrantSteele",
-				"subtitle": "All-Stars"
+				"title": "BrantSteele"
 			},
 			"data": {
 				"rooms": [
@@ -20115,8 +25014,7 @@
 		{
 			"metadata": {
 				"date": "2021-01-17",
-				"title": "BrantSteele",
-				"subtitle": "All-Stars 2"
+				"title": "BrantSteele"
 			},
 			"data": {
 				"rooms": [
@@ -20133,8 +25031,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-05",
-				"title": "Banishcast",
-				"subtitle": null
+				"title": "Banishcast"
 			},
 			"data": {
 				"rooms": [
@@ -20149,8 +25046,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-11",
-				"title": "Banishcast",
-				"subtitle": null
+				"title": "Banishcast"
 			},
 			"data": {
 				"rooms": [
@@ -20165,8 +25061,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-18",
-				"title": "Banishcast",
-				"subtitle": null
+				"title": "Banishcast"
 			},
 			"data": {
 				"rooms": [
@@ -20183,8 +25078,7 @@
 		{
 			"metadata": {
 				"date": "2020-11-20",
-				"title": "Equilibrium",
-				"subtitle": null
+				"title": "Equilibrium"
 			},
 			"data": {
 				"rooms": [
@@ -20199,8 +25093,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-12",
-				"title": "Equilibrium",
-				"subtitle": null
+				"title": "Equilibrium"
 			},
 			"data": {
 				"rooms": [
@@ -20215,8 +25108,7 @@
 		{
 			"metadata": {
 				"date": "2021-02-19",
-				"title": "Equilibrium",
-				"subtitle": null
+				"title": "Equilibrium"
 			},
 			"data": {
 				"rooms": [
